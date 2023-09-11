@@ -1,0 +1,22 @@
+{
+  "name": "SDKNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of SDKNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Lillian-sg/SDKNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Lillian-sg": "souza.lillian@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Lillian-sg/SDKNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SDKNetwork/Classes/**/*"
+}

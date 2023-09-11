@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+PODS:
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+
+DEPENDENCIES:
+  - FMDB (~> 2.6)
+
+SPEC REPOS:
+  trunk:
+    - FMDB
+
+SPEC CHECKSUMS:
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+
+PODFILE CHECKSUM: 71e0850d1f0a556fb37c078157f471bf865cced6
+=======
+PODFILE CHECKSUM: 70bc63e65536641be57862ce457a802742706761
+>>>>>>> master
+
+COCOAPODS: 1.11.3

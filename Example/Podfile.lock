@@ -1,0 +1,16 @@
+PODS:
+  - SDKNetwork (0.1.0)
+
+DEPENDENCIES:
+  - SDKNetwork (from `../`)
+
+EXTERNAL SOURCES:
+  SDKNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDKNetwork: 8241e2537229c70e566b45ee7ac7dc49993877b5
+
+PODFILE CHECKSUM: 672443e37c1c2f513a94fe482f005765b13abcb6
+
+COCOAPODS: 1.11.3
